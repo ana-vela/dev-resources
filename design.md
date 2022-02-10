@@ -90,7 +90,7 @@ UX Resources complied by Brenda Hoyle&#x20;
 
 {% embed url="https://uxsyllab.us/the-syllabus/" %}
 
-
+{% embed url="https://docs.google.com/document/d/1HTRHf1vujwR8wcUPxpENza14qeYL8kI89kbRRBqeTHA/edit" %}
 
 {% embed url="https://www.lenoraporter.com/post/14-free-websites-to-learn-ux-for-free" %}
 
