@@ -115,6 +115,10 @@ UX/UI Resources by MABINTOU -\
 Created by https://twitter.com/mabintou
 {% endembed %}
 
-created by [Mabintou](https://twitter.com/mabintou)
+
+
+UX/UI Resources by Mabintou\
+[`https://docs.google.com/document/d/1Ls80-5waCBlMKHntTxNCuqnvSVGD4ZkrmoGBZGe9g48/edit#heading=h.ho5qoqrhowkd`](https://docs.google.com/document/d/1Ls80-5waCBlMKHntTxNCuqnvSVGD4ZkrmoGBZGe9g48/edit#heading=h.ho5qoqrhowkd)``\
+``created by [Mabintou](https://twitter.com/mabintou)
 
 UX Mastery -Lesson Plan and Group Mentorship [https://docs.google.com/document/d/1HTRHf1vujwR8wcUPxpENza14qeYL8kI89kbRRBqeTHA/edit](https://docs.google.com/document/d/1HTRHf1vujwR8wcUPxpENza14qeYL8kI89kbRRBqeTHA/edit)
