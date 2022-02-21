@@ -84,6 +84,8 @@ Figma Blog Posts
 
 {% embed url="https://hackernoon.com/13-ultimate-uiux-website-inspiration-for-designers-and-developers" %}
 
+{% embed url="https://htmlrev.com" %}
+
 ### Compiled UX/UI Resources
 
 UX Resources complied on Notion by Brenda Hoyle&#x20;
