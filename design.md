@@ -88,11 +88,8 @@ Figma Blog Posts
 
 ### Compiled UX/UI Resources
 
-UX Resources complied on Notion by Brenda Hoyle&#x20;
-
-{% embed url="https://www.notion.so/UX-Resources-0ce13813853c4dfdb6e0f1b3851b68c7" %}
-UX Resources complied by Brenda Hoyle&#x20;
-{% endembed %}
+UX Resources complied on Notion by Brenda Hoyle\
+[https://www.notion.so/UX-Resources-0ce13813853c4dfdb6e0f1b3851b68c7](https://www.notion.so/UX-Resources-0ce13813853c4dfdb6e0f1b3851b68c7)
 
 {% embed url="https://uxsyllab.us/the-syllabus/" %}
 
@@ -100,22 +97,8 @@ UX Resources complied by Brenda Hoyle&#x20;
 
 {% embed url="https://www.kickassux.com/ux-library" %}
 
-UX/UI Resources by MABINTOU -\
-[https://docs.google.com/document/d/1Ls80-5waCBlMKHntTxNCuqnvSVGD4ZkrmoGBZGe9g48/edit#heading=h.ho5qoqrhowkd](https://docs.google.com/document/d/1Ls80-5waCBlMKHntTxNCuqnvSVGD4ZkrmoGBZGe9g48/edit#heading=h.ho5qoqrhowkd)
-
-
-
-{% embed url="https://docs.google.com/spreadsheets/d/1PU3SHQYMd8BVnnIPqdaAKV8wOpxk-ZCZtICOiMOv8Vc/edit#gid=1935946086" %}
-@314UXHolly's Links
-{% endembed %}
-
-
-
-{% embed url="https://docs.google.com/document/d/1Ls80-5waCBlMKHntTxNCuqnvSVGD4ZkrmoGBZGe9g48/edit#heading=h.ho5qoqrhowkd" %}
-Created by https://twitter.com/mabintou
-{% endembed %}
-
-
+314UXHolly's Link's\
+[https://docs.google.com/spreadsheets/d/1PU3SHQYMd8BVnnIPqdaAKV8wOpxk-ZCZtICOiMOv8Vc/edit#gid=1935946086](https://docs.google.com/spreadsheets/d/1PU3SHQYMd8BVnnIPqdaAKV8wOpxk-ZCZtICOiMOv8Vc/edit#gid=1935946086)
 
 UX/UI Resources by Mabintou\
 [`https://docs.google.com/document/d/1Ls80-5waCBlMKHntTxNCuqnvSVGD4ZkrmoGBZGe9g48/edit#heading=h.ho5qoqrhowkd`](https://docs.google.com/document/d/1Ls80-5waCBlMKHntTxNCuqnvSVGD4ZkrmoGBZGe9g48/edit#heading=h.ho5qoqrhowkd)``\
