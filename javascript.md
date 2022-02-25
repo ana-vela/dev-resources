@@ -21,3 +21,5 @@
 ### JavaScript Resources List
 
 {% embed url="https://www.freecodecamp.org/news/23-free-websites-to-learn-javascript" %}
+
+{% embed url="https://devdojo.com/madzadev/21-github-repositories-to-become-a-javascript-master" %}
