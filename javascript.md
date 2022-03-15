@@ -23,3 +23,11 @@
 {% embed url="https://www.freecodecamp.org/news/23-free-websites-to-learn-javascript" %}
 
 {% embed url="https://devdojo.com/madzadev/21-github-repositories-to-become-a-javascript-master" %}
+
+### JavaScript E-Books
+
+{% embed url="https://github.com/thejsway/thejsway" %}
+
+{% embed url="https://eloquentjavascript.net" %}
+
+{% embed url="https://github.com/getify/You-Dont-Know-JS" %}
