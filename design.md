@@ -99,6 +99,8 @@ UX Resources complied on Notion by Brenda Hoyle\
 
 {% embed url="https://levelup.gitconnected.com/42-places-to-learn-web-design-5a57a689f5da" %}
 
+{% embed url="https://north-form-cb9.notion.site/Panda-Learns-UX-5ba9078b95b84cfd8a0b6ee38549ae9f" %}
+
 314UXHolly's Link's\
 [https://docs.google.com/spreadsheets/d/1PU3SHQYMd8BVnnIPqdaAKV8wOpxk-ZCZtICOiMOv8Vc/edit#gid=1935946086](https://docs.google.com/spreadsheets/d/1PU3SHQYMd8BVnnIPqdaAKV8wOpxk-ZCZtICOiMOv8Vc/edit#gid=1935946086)
 
