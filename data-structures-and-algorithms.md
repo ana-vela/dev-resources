@@ -6,6 +6,8 @@
 
 ### Algorithms
 
+{% embed url="https://github.com/trekhleb/javascript-algorithms" %}
+
 {% embed url="https://www.khanacademy.org/computing/computer-science/algorithms" %}
 
 {% embed url="https://www.coursera.org/specializations/algorithms" %}
