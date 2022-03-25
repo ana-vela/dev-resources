@@ -4,6 +4,16 @@
 
 {% embed url="https://www.youtube.com/watch?v=8hly31xKli0" %}
 
+### Algorithms
+
+{% embed url="https://www.khanacademy.org/computing/computer-science/algorithms" %}
+
+{% embed url="https://www.coursera.org/specializations/algorithms" %}
+
+{% embed url="https://www.udacity.com/course/intro-to-algorithms--cs215" %}
+
+{% embed url="https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-programming/lessons/common-data-structures-and-algorithms" %}
+
 ### Practice Challenges
 
 {% embed url="https://www.codewars.com" %}
