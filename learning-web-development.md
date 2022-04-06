@@ -23,3 +23,7 @@
 {% embed url="https://swimm.io/blog/get-started-with-technical-documentation-writing-best-practices" %}
 
 {% embed url="https://codingfordesignersbook.com" %}
+
+{% embed url="https://brindle-celsius-ac6.notion.site/d0f94b8ef82042959520d47078286f16?v=8597b7f469be4b62bf8633b06f51b9d1" %}
+Coding Resources by Abbey Perini
+{% endembed %}
