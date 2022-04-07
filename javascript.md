@@ -24,6 +24,8 @@
 
 {% embed url="https://devdojo.com/madzadev/21-github-repositories-to-become-a-javascript-master" %}
 
+{% embed url="https://dev.to/shreya/70-awesome-free-resources-to-learn-javascript-2h4o" %}
+
 ### JavaScript E-Books
 
 {% embed url="https://github.com/thejsway/thejsway" %}
