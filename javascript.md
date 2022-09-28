@@ -26,6 +26,8 @@
 
 {% embed url="https://dev.to/shreya/70-awesome-free-resources-to-learn-javascript-2h4o" %}
 
+{% embed url="https://opensource.com/article/22/9/javascript-glossary" %}
+
 ### JavaScript E-Books
 
 {% embed url="https://github.com/thejsway/thejsway" %}
