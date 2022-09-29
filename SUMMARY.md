@@ -10,3 +10,4 @@
 * [Accessibility](accessibility.md)
 * [Data Structures and Algorithms](data-structures-and-algorithms.md)
 * [Front End Challenges](front-end-challenges.md)
+* [Tools](tools.md)
