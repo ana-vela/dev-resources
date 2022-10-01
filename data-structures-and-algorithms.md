@@ -16,6 +16,8 @@
 
 {% embed url="https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-programming/lessons/common-data-structures-and-algorithms" %}
 
+{% embed url="https://the-algorithms.com/" %}
+
 ### Practice Challenges
 
 {% embed url="https://www.codewars.com" %}
