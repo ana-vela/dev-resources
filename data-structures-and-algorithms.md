@@ -18,6 +18,8 @@
 
 {% embed url="https://the-algorithms.com/" %}
 
+{% embed url="https://frontendmasters.com/courses/algorithms/" %}
+
 ### Practice Challenges
 
 {% embed url="https://www.codewars.com" %}
