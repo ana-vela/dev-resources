@@ -6,6 +6,10 @@
 
 {% embed url="https://www.freecodecamp.org/news/common-accessibility-errors-and-how-to-fix-them" %}
 
+### Tools
+
+{% embed url="https://randoma11y.com/" %}
+
 ### Accessibility Blogs
 
 {% embed url="https://www.matuzo.at" %}
