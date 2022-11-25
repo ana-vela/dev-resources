@@ -86,6 +86,8 @@ Figma Blog Posts
 
 {% embed url="https://htmlrev.com" %}
 
+{% embed url="https://html5up.net/" %}
+
 ### Compiled UX/UI Resources
 
 UX Resources complied on Notion by Brenda Hoyle\
