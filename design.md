@@ -40,6 +40,8 @@ Design Engineering Handbook from Invision -&#x20;
 
 {% embed url="https://www.designacademy.io/free-course" %}
 
+{% embed url="https://learnux.io" %}
+
 {% embed url="https://hackdesign.org" %}
 
 ### UI Design
@@ -107,7 +109,7 @@ UX Resources complied on Notion by Brenda Hoyle\
 [https://docs.google.com/spreadsheets/d/1PU3SHQYMd8BVnnIPqdaAKV8wOpxk-ZCZtICOiMOv8Vc/edit#gid=1935946086](https://docs.google.com/spreadsheets/d/1PU3SHQYMd8BVnnIPqdaAKV8wOpxk-ZCZtICOiMOv8Vc/edit#gid=1935946086)
 
 UX/UI Resources by Mabintou\
-[`https://docs.google.com/document/d/1Ls80-5waCBlMKHntTxNCuqnvSVGD4ZkrmoGBZGe9g48/edit#heading=h.ho5qoqrhowkd`](https://docs.google.com/document/d/1Ls80-5waCBlMKHntTxNCuqnvSVGD4ZkrmoGBZGe9g48/edit#heading=h.ho5qoqrhowkd)``\
-``created by [Mabintou](https://twitter.com/mabintou)
+[`https://docs.google.com/document/d/1Ls80-5waCBlMKHntTxNCuqnvSVGD4ZkrmoGBZGe9g48/edit#heading=h.ho5qoqrhowkd`](https://docs.google.com/document/d/1Ls80-5waCBlMKHntTxNCuqnvSVGD4ZkrmoGBZGe9g48/edit#heading=h.ho5qoqrhowkd)\
+created by [Mabintou](https://twitter.com/mabintou)
 
 UX Mastery -Lesson Plan and Group Mentorship [https://docs.google.com/document/d/1HTRHf1vujwR8wcUPxpENza14qeYL8kI89kbRRBqeTHA/edit](https://docs.google.com/document/d/1HTRHf1vujwR8wcUPxpENza14qeYL8kI89kbRRBqeTHA/edit)

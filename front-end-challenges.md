@@ -10,4 +10,6 @@
 Front End Practice by Kyle Shook
 {% endembed %}
 
-{% embed url="https://devchallenges.io" %}
+{% embed url="https://devchallenges.io" fullWidth="true" %}
+
+{% embed url="https://icodethis.com/" %}
