@@ -30,6 +30,8 @@
 Coding Resources by Abbey Perini
 {% endembed %}
 
+{% embed url="https://www.freecodecamp.org/news/learn-to-code-book/" %}
+
 ### YouTube Channels
 
 {% embed url="https://www.youtube.com/c/WebDevSimplified" %}
